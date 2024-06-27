@@ -1,0 +1,15 @@
+crop_name,description,days_to_grow,multiple_harvests,season
+Melon,"A cool, sweet summer treat.",12,NO,Summer
+Poppy,"In addition to its colorful flower, the Poppy has culinary and medicinal uses.",7,NO,Summer
+Radish,A crisp and refreshing root vegetable with hints of pepper when eaten raw.,6,NO,Summer
+Red Cabbage,Often used in salads and coleslaws. The color can range from purple to blue to green-yellow depending on soil conditions.,9,NO,Summer
+Starfruit,"An extremely juicy fruit that grows in hot, humid weather. Slightly sweet with a sour undertone.",13,NO,Summer
+Summer Spangle,"A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma.",8,NO,Summer
+Sunflower,A common misconception is that the flower turns so it's always facing the sun.,8,NO,Summer
+Wheat,One of the most widely cultivated grains. Makes a great flour for breads and cakes.,4,NO,Summer
+Blueberry,A popular berry reported to have many health benefits. The blue skin has the highest nutrient concentration.,13,YES,Summer
+Coffee Bean,Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.,10,YES,Summer
+Corn,"One of the most popular grains. The sweet, fresh cobs are a summer favorite.",14,YES,Summer
+Hops,"A bitter, tangy flower used to flavor beer.",11,YES,Summer
+Hot Pepper,Fiery hot with a hint of sweetness.,5,YES,Summer
+Tomato,"Rich and slightly tangy, the Tomato has a wide variety of culinary uses.",11,YES,Summer

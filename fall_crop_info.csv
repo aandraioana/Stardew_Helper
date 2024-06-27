@@ -1,0 +1,15 @@
+crop_name,description,days_to_grow,multiple_harvests,season
+Amaranth,A purple grain cultivated by an ancient civilization.,7,NO,Fall
+Aichoke,"The bud of a thistle plant. The spiny outer leaves conceal a fleshy, filling interior.",8,NO,Fall
+Beet,"A sweet and earthy root vegatable. As a bonus, the leaves make a great salad.",6,NO,Fall
+Bok Choy,The leafy greens and fibrous stalks are healthy and delicious.,4,NO,Fall
+Fairy Rose,An old folk legend suggests that the sweet smell of this flower attracts fairies.,12,NO,Fall
+Pumpkin,"A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration.",13,NO,Fall
+Sunflower,A common misconception is that the flower turns so it's always facing the sun.,8,NO,Fall
+Sweet Gem Berry,It's by far the sweetest thing you've ever smelled.,24,NO,Fall
+Wheat,One of the most widely cultivated grains. Makes a great flour for breads and cakes.,4,NO,Fall
+Yam,A starchy tuber with a lot of culinary versatility.,10,NO,Fall
+Corn,"One of the most popular grains. The sweet, fresh cobs are a summer favorite.",14,YES,Fall
+Cranberries,These tart red berries are a traditional winter food.,7,YES,Fall
+Eggplant,A rich and wholesome relative of the tomato. Delicious fried or stewed.,5,YES,Fall
+Grape,A sweet cluster of fruit.,10,YES,Fall

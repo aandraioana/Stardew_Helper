@@ -1,0 +1,14 @@
+crop_name,description,days_to_grow,multiple_harvests,season
+Blue Jazz,The flower grows in a shere to nvite as may butterflies as possible.,7,NO,Spring
+Cauliflower,"Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.",12,NO,Spring
+Garlic,Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.,4,NO,Spring
+Kale,The waxy leaves are great in soups and stir frys.,6,NO,Spring
+Parsnip,A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.,4,NO,Spring
+Potato,A widely cultivated tuber.,6,NO,Spring
+Rhubarb,"The stalks are extremely tart, but make a great dessert when sweetened.",13,NO,Spring
+Tulip,The most popular spring flower. Has a very faint sweet smell.,6,NO,Spring
+Unmilled Rice (Irrigated),Rice in its rawest form. Run this through a mill to increase the value.,6,NO,Spring
+Unmilled Rice Unirrigated),Rice in its rawest form. Run this through a mill to increase the value.,8,NO,Spring
+Coffee Bean,Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.,10,YES,Spring
+Green Bean,"A juicy little bean with a cool, crisp snap.",10,YES,Spring
+Strawberry,"A sweet, juicy favorite with an appealing red color.",8,YES,Spring
