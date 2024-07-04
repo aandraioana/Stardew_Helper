@@ -7,6 +7,9 @@
 <body>
     <h1>Stardew Helper Dashboard</h1>
     <p>Welcome to the Stardew Helper Dashboard project! This repository contains a Tableau dashboard designed to help you organize crops in each season and maximize profits (daily/per season) in Stardew Valley and also maximize energy/health intake. The data used in this project was sourced from Kaggle, updated with the new crops added in version 1.6 of the game, and written by me from the official Stardew wiki. The project involves data cleaning, joining tables, updating the data, creating formulas for daily/per season profit and visualizing it in an interactive Tableau dashboard.</p>
+   <ul> 
+       <li><a href="https://public.tableau.com/app/profile/andra.ioana.iuga/viz/Stardew_dashboard/Dashboard1">Stardew Helper Dashboard on Tableau Public</a></li>
+   </ul>
     <h2>Table of Contents</h2>
     <ul>
         <li><a href="#overview">Overview</a></li>
